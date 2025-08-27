@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on My first Machine Learning project: USA Visa Approval Prediction<br>🌱 I’m currently learning Machine Learning basics and DSA with C++<br>💬 Ask me about Python basics, ML learning resources, and my USA Visa Prediction project<br>⚡ Fun fact : Fun fact: I believe AI will change the world — and I'm preparing to be part of that change 🚀
+🔭 I’m currently working on My first Machine Learning project: USA Visa Approval Prediction<br>🌱 I’m currently learning Machine Learning basics and DSA with C++<br>💬 Ask me about Python basics, ML learning resources, and my USA Visa Prediction project<br>⚡ Fun fact : I believe AI will change the world — and I'm preparing to be part of that change 🚀
 
 
 ## 🌐 Socials:
